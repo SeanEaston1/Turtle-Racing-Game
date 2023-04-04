@@ -1,7 +1,13 @@
 <h1 align="center">Turtle Racing Game</h1>
 
-<p align="center">This is a simple racing game built using the Python Turtle module. The game features several turtles racing towards a finish line, with the player betting on the outcome. The game includes randomized turtle speeds and starting positions, user input for selecting the winning turtle and placing a bet, and animated graphics and sound effects to enhance the game experience.</p>
-<br>
+## Introduction
+
+- This is a simple racing game built using the Python Turtle module which provided a simple graphics library for creating basic animations and games. 
+- The game features several turtles racing towards a finish line, with the player betting on the outcome. 
+- Included several features, such as:
+   - Randomized turtle speeds and starting positions
+   - User input for selecting the winning turtle and placing a bet
+   - Animated graphics and sound effects to enhance the game experience
 
 ## Installation
 
